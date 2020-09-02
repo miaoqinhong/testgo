@@ -1,0 +1,6 @@
+{
+"app_name": "project_8_26",
+  "port": "8080",
+  "static_path": "/manage/static",
+  "model": "dev"
+}
